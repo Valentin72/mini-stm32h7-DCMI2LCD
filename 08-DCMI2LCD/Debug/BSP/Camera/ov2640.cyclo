@@ -1,0 +1,16 @@
+../BSP/Camera/ov2640.c:110:16:OV2640_WR_Reg	1
+../BSP/Camera/ov2640.c:372:12:set_quality	2
+../BSP/Camera/ov2640.c:355:12:set_saturation	3
+../BSP/Camera/ov2640.c:338:12:set_brightness	3
+../BSP/Camera/ov2640.c:319:12:set_contrast	3
+../BSP/Camera/ov2640.c:149:12:set_special_effect	2
+../BSP/Camera/ov2640.c:125:13:wrSensorRegs	2
+../BSP/Camera/ov2640.c:133:12:reset	1
+../BSP/Camera/ov2640.c:117:16:OV2640_RD_Reg	1
+../BSP/Camera/ov2640.c:203:13:_set_framesize	2
+../BSP/Camera/ov2640.c:250:12:set_pixformat	4
+../BSP/Camera/ov2640.c:397:12:set_hmirror	2
+../BSP/Camera/ov2640.c:414:12:set_vflip	2
+../BSP/Camera/ov2640.c:384:12:set_colorbar	2
+../BSP/Camera/ov2640.c:308:5:ov2640_check_framesize	4
+../BSP/Camera/ov2640.c:497:5:ov2640_init	1

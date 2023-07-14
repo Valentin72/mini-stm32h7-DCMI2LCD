@@ -1,0 +1,3 @@
+../BSP/Camera/ov7725.c:11:16:ov7725_RD_Reg.isra	0	static
+../BSP/Camera/ov7725.c:62:12:ov7725_set_framesize.isra	24	static
+../BSP/Camera/ov7725.c:146:5:ov7725_init	32	static

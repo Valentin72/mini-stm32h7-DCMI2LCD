@@ -1,0 +1,10 @@
+../BSP/Camera/ov5640.c:74:12:calculate_hts	4
+../BSP/Camera/ov5640.c:96:12:calculate_vts	1
+../BSP/Camera/ov5640.c:35:16:ov5640_WR_Reg	1
+../BSP/Camera/ov5640.c:47:12:ov5640_reset	2
+../BSP/Camera/ov5640.c:41:16:ov5640_RD_Reg	1
+../BSP/Camera/ov5640.c:101:12:ov5640_set_pixformat	17
+../BSP/Camera/ov5640.c:169:12:ov5640_set_framesize	20
+../BSP/Camera/ov5640.c:308:12:ov5640_set_hmirror	2
+../BSP/Camera/ov5640.c:323:12:ov5640_set_vflip	2
+../BSP/Camera/ov5640.c:338:5:ov5640_init	1

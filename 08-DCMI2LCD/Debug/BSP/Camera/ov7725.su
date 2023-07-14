@@ -1,0 +1,8 @@
+../BSP/Camera/ov7725.c:5:16:ov7725_WR_Reg	16	static
+../BSP/Camera/ov7725.c:16:12:ov7725_reset	16	static
+../BSP/Camera/ov7725.c:11:16:ov7725_RD_Reg	8	static
+../BSP/Camera/ov7725.c:35:12:ov7725_set_pixformat	24	static
+../BSP/Camera/ov7725.c:62:12:ov7725_set_framesize	32	static
+../BSP/Camera/ov7725.c:126:12:ov7725_set_hmirror	24	static
+../BSP/Camera/ov7725.c:135:12:ov7725_set_vflip	24	static
+../BSP/Camera/ov7725.c:146:5:ov7725_init	16	static

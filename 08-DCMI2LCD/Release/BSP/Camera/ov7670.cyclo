@@ -1,0 +1,11 @@
+../BSP/Camera/ov7670.c:4:5:OV7670_WriteReg	1
+../BSP/Camera/ov7670.c:19:5:OV7670_ReadReg	1
+../BSP/Camera/ov7670.c:32:5:OV7670_Reset	2
+../BSP/Camera/ov7670.c:44:5:OV7670_WriteRegList	4
+../BSP/Camera/ov7670.c:67:6:OV7670_Light_Mode	5
+../BSP/Camera/ov7670.c:106:6:OV7670_Color_Saturation	5
+../BSP/Camera/ov7670.c:150:6:OV7670_Brightness	5
+../BSP/Camera/ov7670.c:177:6:OV7670_Contrast	5
+../BSP/Camera/ov7670.c:206:6:OV7670_Special_Effects	7
+../BSP/Camera/ov7670.c:251:6:ov7670_Window_Set	2
+../BSP/Camera/ov7670.c:279:5:OV7670_Config	10

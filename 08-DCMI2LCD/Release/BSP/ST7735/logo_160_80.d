@@ -1,0 +1,1 @@
+BSP/ST7735/logo_160_80.o: ../BSP/ST7735/logo_160_80.c

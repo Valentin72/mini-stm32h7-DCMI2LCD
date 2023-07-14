@@ -1,0 +1,2 @@
+../BSP/Camera/ov5640.c:74:12:calculate_hts	5
+../BSP/Camera/ov5640.c:338:5:ov5640_init	14
