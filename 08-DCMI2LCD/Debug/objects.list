@@ -13,6 +13,8 @@
 "./BSP/ST7735/logo_160_80.o"
 "./BSP/ST7735/st7735.o"
 "./BSP/ST7735/st7735_reg.o"
+"./BSP/ST7789/fonts.o"
+"./BSP/ST7789/st7789.o"
 "./Core/Src/dcmi.o"
 "./Core/Src/dma.o"
 "./Core/Src/gpio.o"

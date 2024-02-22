@@ -29,6 +29,7 @@
 /* USER CODE BEGIN Includes */
 #include "lcd.h"
 #include "camera.h"
+#include "st7789.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -119,9 +120,11 @@ int main(void)
   MX_I2C1_Init();
   MX_SPI4_Init();
   MX_TIM1_Init();
+  MX_SPI1_Init();
   /* USER CODE BEGIN 2 */
-
-
+  // New code
+  ST7789_Init();
+  // old code
   uint8_t text[20];
 
   LCD_Test();
@@ -234,7 +237,7 @@ void SystemClock_Config(void)
   {
     Error_Handler();
   }
-  HAL_RCC_MCOConfig(RCC_MCO1, RCC_MCO1SOURCE_PLL1QCLK, RCC_MCODIV_10);
+  HAL_RCC_MCOConfig(RCC_MCO1, RCC_MCO1SOURCE_PLL1QCLK, RCC_MCODIV_11);
 }
 
 /* USER CODE BEGIN 4 */

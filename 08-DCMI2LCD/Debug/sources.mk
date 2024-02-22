@@ -24,6 +24,7 @@ C_DEPS :=
 SUBDIRS := \
 BSP/Camera \
 BSP/ST7735 \
+BSP/ST7789 \
 Core/Src \
 Core/Startup \
 Drivers/STM32H7xx_HAL_Driver/Src \

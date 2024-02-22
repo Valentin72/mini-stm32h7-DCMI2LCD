@@ -15,4 +15,4 @@
 ../BSP/ST7735/lcd.c:195:6:LCD_Light	24	static
 ../BSP/ST7735/lcd.c:243:6:LCD_ShowChar	104	dynamic
 ../BSP/ST7735/lcd.c:327:6:LCD_ShowString	48	static
-../BSP/ST7735/lcd.c:46:6:LCD_Test	72	static
+../BSP/ST7735/lcd.c:46:6:LCD_Test	56	static

@@ -61,6 +61,10 @@ void Error_Handler(void);
 #define PE3_GPIO_Port GPIOE
 #define KEY_Pin GPIO_PIN_13
 #define KEY_GPIO_Port GPIOC
+#define ST7789_RST_Pin GPIO_PIN_5
+#define ST7789_RST_GPIO_Port GPIOC
+#define ST7789_DC_Pin GPIO_PIN_1
+#define ST7789_DC_GPIO_Port GPIOB
 #define LCD_CS_Pin GPIO_PIN_11
 #define LCD_CS_GPIO_Port GPIOE
 #define LCD_WR_RS_Pin GPIO_PIN_13
